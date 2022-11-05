@@ -1,4 +1,4 @@
-Introduction
+Introduction on DEVOPS
 What is a server and functionalities
 What is Time Series?
 What is Grafana?
@@ -6,3 +6,4 @@ Montiring tool to vilaization the graph
 What are DevOps responsibilities?
 what is GIT?
 Practised GIT Commands
+Practised push and pull
