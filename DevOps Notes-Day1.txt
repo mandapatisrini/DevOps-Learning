@@ -5,4 +5,4 @@ What is Grafana?
 Montiring tool to vilaization the graph
 What are DevOps responsibilities?
 what is GIT?
-GIT Commands
+Practised GIT Commands
