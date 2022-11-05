@@ -6,3 +6,4 @@ Montiring tool to vilaization the graph
 What are DevOps responsibilities?
 what is GIT?
 Practised GIT Commands
+Created repo in GitHub
