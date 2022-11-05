@@ -7,3 +7,4 @@ What are DevOps responsibilities?
 what is GIT?
 Practised GIT Commands
 Practised push and pull
+Created repo in GitHub
